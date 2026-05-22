@@ -1,8 +1,9 @@
 # Replication: "70% of new software engineering papers on arxiv are LLM-related"
 
 **Original post:** https://shape-of-code.com/2026/03/22/70-of-new-software-engineering-papers-on-arxiv-are-llm-related/  
-**Replicated by:** Claude Sonnet 4.6 (claude-sonnet-4-6) via Claude Code  
-**Replication date:** 2026-05-22
+**Replication date:** 2026-05-22  
+**Agent harness:** [Claude Code](https://claude.ai/code) (CLI, version used: `claude-code`)  
+**Model:** Claude Sonnet 4.6 (`claude-sonnet-4-6`)
 
 ## What was replicated
 
