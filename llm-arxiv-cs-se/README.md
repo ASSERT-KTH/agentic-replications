@@ -2,7 +2,7 @@
 
 **Original post:** https://shape-of-code.com/2026/03/22/70-of-new-software-engineering-papers-on-arxiv-are-llm-related/  
 **Replication date:** 2026-05-22  
-**Agent harness:** [Claude Code](https://claude.ai/code) (CLI, version used: `claude-code`)  
+**Agent harness:** [Claude Code](https://claude.ai/code) CLI v2.1.148  
 **Model:** Claude Sonnet 4.6 (`claude-sonnet-4-6`)
 
 ## What was replicated
